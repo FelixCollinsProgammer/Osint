@@ -194,9 +194,6 @@ echo
 echo -e "\033[1;91m[*]\033[1;97m Installing google\033[0m" 
 pip install google --break-system-packages
 echo
-echo -e "\033[1;91m[*]\033[1;97m Installing Cinemagoer \033[0m"
-pip install cinemagoer --break-system-packages
-echo
 echo -e "\033[1;91m[*]\033[1;97m Installing prompt-toolkit\033[0m"
 pip install prompt-toolkit --break-system-packages
 echo
